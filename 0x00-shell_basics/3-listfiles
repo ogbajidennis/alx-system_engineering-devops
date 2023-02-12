@@ -1,2 +1,2 @@
-#!/bin/bals
+#!/bin/bash
 ls -l
